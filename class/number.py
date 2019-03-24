@@ -1,0 +1,12 @@
+x=3
+print(type(x))
+print(x+1)
+print(x-1)
+print(x*2)
+print(x/2)
+print(x//2)
+y=2.5
+print(type(y))
+print(abs(-x))
+print(int(y))
+print(float(x))
